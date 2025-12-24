@@ -1,5 +1,5 @@
 <?php
-
+error_reporting()
 include 'config.php';
 session_start();
 
